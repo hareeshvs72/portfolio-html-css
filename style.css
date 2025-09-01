@@ -219,6 +219,8 @@ header{
     top: 0;
     left: 0;
      cursor:pointer;
+     border-radius: 50%;
+     background-position: center;
     
 }
 @property --angle{
